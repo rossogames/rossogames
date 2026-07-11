@@ -8,9 +8,9 @@
 
 ## 👋 About Me
 
-I'm **Agustín Rosso**, a passionate game developer and software architect based in **Italy**, originally from **Argentina**. I specialize in designing clean, maintainable architectures that empower game developers to build incredible experiences without wrestling with technical debt.
+I'm **Agustín Rosso**, a passionate game developer and software architect based in **Italy**, originally from **Argentina**. I specialize in designing clean, maintainable architectures that empower game developers to build production-grade experiences.
 
-My background in software development has given me deep insights into what makes great architecture. I apply those principles to Unity game development, creating tools and frameworks that make the development process more efficient and enjoyable.
+My background in software development has given me deep insights into what makes great architecture. I apply those principles to Unity game development, creating tools and frameworks that make the development process smoother and more enjoyable.
 
 ### My Mission
 To build **production-grade, modular systems** that let developers focus on creativity instead of infrastructure.
@@ -102,5 +102,6 @@ I'm always interested in:
 
 - 📧 **Email:** agustin.rosso.dev@gmail.com
 - 🐙 **GitHub:** [@rossogames](https://github.com/rossogames)
+- 📺 **YouTube:** [@agustin_rosso_code](https://www.youtube.com/@agustin_rosso_code)
 - 💼 Open to collaborations and game development opportunities
 - 🎮 Passionate about mentoring and helping other developers succeed
