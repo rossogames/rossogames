@@ -25,7 +25,7 @@ To build **production-grade, modular systems** that let developers focus on crea
 | Package | Purpose |
 |---------|---------|
 | **[Rossoforge-Core](https://github.com/rossogames/Rossoforge-Core)** | Shared interfaces and base types for the entire ecosystem |
-| **[Rossoforge-Services](https://github.com/rossogames/Rossoforge-Services)** | Thread-safe Service Locator for dependency injection |
+| **[Rossoforge-Services](https://github.com/rossogames/Rossoforge-Services)** |Service Locator for the entire ecosystem (Doesn't use dependency injection) |
 | **[Rossoforge-Events](https://github.com/rossogames/Rossoforge-Events)** | Lightweight, decoupled event system with event buses |
 
 ### 🎨 UI & Presentation
