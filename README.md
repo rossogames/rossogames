@@ -67,22 +67,8 @@ To build **production-grade, modular systems** that let developers focus on crea
 ✅ **Decoupled Systems** - Minimal dependencies, maximum flexibility  
 ✅ **Performance-Optimized** - Built for production games  
 ✅ **Data-Driven Design** - Configuration via ScriptableObjects, no code changes  
-✅ **Thread-Safe** - Designed for concurrent operations  
 ✅ **Intuitive APIs** - Clean, discoverable interfaces  
-✅ **Well-Documented** - Comprehensive docs in every package  
 ✅ **Production-Ready** - Built on solid software architecture principles  
-
----
-
-## 💡 Design Philosophy
-
-I believe that great code comes from these core principles:
-
-- **Simplicity Over Complexity** - Easy to understand and extend
-- **Composition Over Inheritance** - Flexible, reusable components
-- **Configuration Over Code** - Keep your scenes clean
-- **Performance First** - Object pooling, efficient algorithms, zero unnecessary allocations
-- **Developer Experience** - Because happy developers make better games
 
 ---
 
@@ -118,15 +104,3 @@ I'm always interested in:
 - 🐙 **GitHub:** [@rossogames](https://github.com/rossogames)
 - 💼 Open to collaborations and game development opportunities
 - 🎮 Passionate about mentoring and helping other developers succeed
-
----
-
-<div align="center">
-
-**Building production-ready frameworks for modern game development.**
-
-*RossoForge: Because great games start with great foundations.*
-
-🇦🇷 🇮🇹 Crafting the future of game development, one architecture at a time.
-
-</div>
