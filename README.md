@@ -100,7 +100,7 @@ I'm always interested in:
 
 ## 📬 Get in Touch
 
-- 📧 **Email:** agustin.rosso.dev@gmail.com
+- 📧 **Email:** agustin.rosso.code@gmail.com
 - 🐙 **GitHub:** [@rossogames](https://github.com/rossogames)
 - 📺 **YouTube:** [@agustin_rosso_code](https://www.youtube.com/@agustin_rosso_code)
 - 💼 Open to collaborations and game development opportunities
