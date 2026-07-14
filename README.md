@@ -2,7 +2,6 @@
 
 > **Senior Game Architect | Unity Framework Designer**  
 > 🇦🇷 Argentine | 🇮🇹 Based in Italy  
-> Crafting robust, scalable game frameworks for production-ready development
 
 ---
 
@@ -11,6 +10,14 @@
 I'm **Agustín Rosso**, a passionate game developer and software architect based in **Italy**, originally from **Argentina**. I specialize in designing clean, maintainable architectures that empower game developers to build production-grade experiences.
 
 My background in software development has given me deep insights into what makes great architecture. I apply those principles to Unity game development, creating tools and frameworks that make the development process smoother and more enjoyable.
+
+---
+
+## 📊 Tech Stack
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
 ---
 
 ## 🏗️ RossoForge Ecosystem
@@ -65,22 +72,6 @@ My background in software development has given me deep insights into what makes
 ✅ **Data-Driven Design** - Configuration via ScriptableObjects, no code changes  
 ✅ **Intuitive APIs** - Clean, discoverable interfaces  
 ✅ **Production-Ready** - Built on solid software architecture principles  
-
----
-
-## 📊 Tech Stack
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-
----
-
-## 🌍 Background
-
-- 🇦🇷 Software developer from Argentina
-- 🇮🇹 Now based in Italy, focused on game development and architecture
-- 🎮 Passionate about creating elegant solutions for complex game systems
-- 🏗️ Dedicated to sharing best practices through RossoForge
 
 ---
 
