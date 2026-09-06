@@ -20,9 +20,9 @@ My background in software development has given me deep insights into what makes
 
 ---
 
-## 🏗️ RossoForge Ecosystem
+## 🏗️ Rossoforge Ecosystem
 
-**RossoForge** is a collection of **lightweight, modular packages** designed to work together seamlessly as a complete game development framework for Unity.
+**Rossoforge** is a collection of **lightweight, modular packages** designed to work together seamlessly as a complete game development framework for Unity.
 
 ### 🔧 Core Systems
 | Package | Purpose |
@@ -58,9 +58,9 @@ My background in software development has given me deep insights into what makes
 ---
 
 ## 📚 Learning Resources
-
-- **[template_unity_game_flow](https://github.com/rossogames/template_unity_game_flow)** - Production-ready starter template using RossoForge patterns
-- **[tutorial_unity_top_view_2D_player_controller](https://github.com/rossogames/tutorial_unity_top_view_2D_player_controller)** - Step-by-step tutorial for 2D player controllers
+| Project | Purpose |
+|---------|---------|
+| **[template_unity_game_flow](https://github.com/rossogames/template_unity_game_flow)** | Production-ready starter template using RossoForge patterns |
 
 ---
 
