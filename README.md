@@ -20,8 +20,7 @@ My background in software development has given me deep insights into what makes
 
 ---
 
-## 🏗️ Rossoforge Ecosystem
-
+## <img src="https://raw.githubusercontent.com/rossogames/rossogames/main/logo.png" alt="Rossoforge Logo" height="64" align="center"> Rossoforge Ecosystem
 **Rossoforge** is a collection of **lightweight, modular packages** designed to work together seamlessly as a complete game development framework for Unity.
 
 ### 🔧 Core Systems
